@@ -8,7 +8,7 @@ const frameMetadata = getFrameMetadata({
     {
       label: 'Explore OpenSea',
       action: 'link',
-      target: `https://opensea.io/assets/ethereum/0x611bf1dc4f11f7f8bfb3a403f5a260d082405be6/64`,
+      target: `https://opensea.io/`,
     },
   ],
   postUrl: `${NEXT_PUBLIC_URL}/api/prs`,
