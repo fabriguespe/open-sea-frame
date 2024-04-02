@@ -1,8 +1,6 @@
 # Open Sea Frames
 
-The repository is focused on OpenSea Frames for minting NFTs.
-
-1. **Frame Metadata Generation**: This is handled in app/[x].tsx where metadata for an OpenSea frame is generated. This includes setting up a button for minting on OpenSea, specifying the post URL, and defining the image to be used.
+This is handled in app/[x].tsx where metadata for an OpenSea frame is generated. This includes setting up a button for minting on OpenSea, specifying the post URL, and defining the image to be used.
 
 ```jsx
 const frameMetadata = getFrameMetadata({
