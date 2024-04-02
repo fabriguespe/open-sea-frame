@@ -1,5 +1,4 @@
 import { NextRequest } from 'next/server';
-import { getFrameMetadata } from '@coinbase/onchainkit';
 import { NEXT_PUBLIC_URL } from '../../config';
 
 export const dynamic = 'force-dynamic';
