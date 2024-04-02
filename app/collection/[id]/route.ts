@@ -21,7 +21,7 @@ export async function GET(
                 <meta name="description" content="Interoperable Frames" />
                 <meta name="fc:frame" content="vNext" />
                 <meta name="fc:frame:image" content="${imageUrl}" />
-                <meta name="fc:frame:button:1" content="Explore OpenSea" />
+                <meta name="fc:frame:button:1" content="Mint in OpenSea" />
                 <meta name="fc:frame:button:1:action" content="link" />
                 <meta
                   name="fc:frame:button:1:target"
